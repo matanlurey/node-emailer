@@ -2,6 +2,8 @@
 
 A sample project to review some concepts for backend Node.js development.
 
+[![nodejs ci](https://github.com/matanlurey/nodejs-concept-review/actions/workflows/node.yaml/badge.svg)](https://github.com/matanlurey/nodejs-concept-review/actions/workflows/node.yaml)
+
 ## Concepts
 
 - [x] [Asynchronous programming (promises, `async`/`await`)](examples/async.js)
