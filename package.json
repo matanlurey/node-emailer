@@ -1,0 +1,25 @@
+{
+  "name": "emailer",
+  "version": "0.0.0",
+  "description": "A sample project reviewing backend JS concepts.",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matanlurey/node-emailer.git"
+  },
+  "scripts": {
+    "test": "node --test examples/*.js"
+  },
+  "author": "Matan Lurey <matan@lurey.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matanlurey/node-emailer/issues"
+  },
+  "homepage": "https://github.com/matanlurey/node-emailer#readme",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "nodemailer": "^6.9.13",
+    "temporal-polyfill": "^0.2.4",
+    "zod": "^3.23.4"
+  }
+}
